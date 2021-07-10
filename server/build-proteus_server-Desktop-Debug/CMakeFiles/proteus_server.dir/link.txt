@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/proteus_server.dir/main.cpp.o CMakeFiles/proteus_server.dir/tcpserver.cpp.o  -o proteus_server 

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/work/Рабочий стол/Proteus/server/proteus_server/main.cpp
+iostream
+-
+unistd.h
+-
+vector
+-
+algorithm
+-
+numeric
+-
+cstring
+-
+tcpserver.h
+/home/work/Рабочий стол/Proteus/server/proteus_server/tcpserver.h
+
+/home/work/Рабочий стол/Proteus/server/proteus_server/tcpserver.cpp
+iostream
+-
+unistd.h
+-
+arpa/inet.h
+-
+tcpserver.h
+/home/work/Рабочий стол/Proteus/server/proteus_server/tcpserver.h
+
+/home/work/Рабочий стол/Proteus/server/proteus_server/tcpserver.h
+

@@ -1,0 +1,3 @@
+/home/work/Рабочий стол/Proteus/server/build-proteus_server-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/work/Рабочий стол/Proteus/server/build-proteus_server-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/work/Рабочий стол/Proteus/server/build-proteus_server-Desktop-Debug/CMakeFiles/proteus_server.dir

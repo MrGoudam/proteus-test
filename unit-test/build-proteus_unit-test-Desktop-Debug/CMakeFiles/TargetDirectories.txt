@@ -1,0 +1,3 @@
+/home/work/Рабочий стол/Proteus/unit-test/build-proteus_unit-test-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/work/Рабочий стол/Proteus/unit-test/build-proteus_unit-test-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/work/Рабочий стол/Proteus/unit-test/build-proteus_unit-test-Desktop-Debug/CMakeFiles/proteus_unit-test.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/work/Рабочий стол/Proteus/unit-test/proteus_unit-test/main.cpp
+iostream
+-
+vector
+-
+string
+-
+cassert
+-
+tcpsocket.h
+/home/work/Рабочий стол/Proteus/unit-test/proteus_unit-test/tcpsocket.h
+
+/home/work/Рабочий стол/Proteus/unit-test/proteus_unit-test/tcpsocket.h
+

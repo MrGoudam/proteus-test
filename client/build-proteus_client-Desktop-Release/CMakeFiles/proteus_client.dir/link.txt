@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3 -DNDEBUG   CMakeFiles/proteus_client.dir/main.cpp.o CMakeFiles/proteus_client.dir/tcpsocket.cpp.o  -o proteus_client 
